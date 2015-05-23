@@ -1,0 +1,13 @@
+{
+  "name": "archerfire",
+  "version": "1.0",
+  "main": "node.html",
+  "window": {
+    "title": "Archefire",
+    "icon": "img/f512.png",
+    "toolbar": false,
+    "frame": true,
+    "fullScreen": true,
+    "position": "center"
+  }
+}
